@@ -9,3 +9,5 @@ input("Where do they live?")
 input ("What is a fun fact about them?")
 input ("What color are they?")
 print(animal + like + live + fact + color)
+
+#fixing
