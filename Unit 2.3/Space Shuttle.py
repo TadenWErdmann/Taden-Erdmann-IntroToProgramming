@@ -1,0 +1,8 @@
+countdown = input("How many seconds?")
+oxygen_tanks = input("How many oxygen tanks")
+food_packs = input("How many food packs?")
+water_Packs = input("how many water packs?")
+print("Countdown:"  +  "countdown")
+print ("Oxygen Tanks: + oxygen_tanks")
+print("Food Packs: + food_packs")
+print("Water Packs: + water_Packs")
